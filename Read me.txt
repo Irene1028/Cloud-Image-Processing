@@ -1,14 +1,3 @@
-Dear Admission Committee£º
+Thank you for coming to Irene's hub.
 
-Thank you for reviewing my portfolio.
-
-It is one of my curriculum design projects. I finished it in summer semester of 2017. 
-
-I included project files, presentation ppt in this folder. I am sorry that I did not prepare an English version of my presentation ppt, so I uploaded a video showing the functions of my system. Because it is a group project, so there are 4 parts in the video, and the first one is mine. May it be helpful.
-
-
-Sincerely,
-
-Ying Xu
-
-12/30/2017
+This is a cloud image processing platform. Inside the server_WPF, there is code for a server which can provide image processing services to multiple clients at the same time. Source code for client-end is provided in the folder "server_cla". Both server-end and the client-end included user interfaces. A user can set his/her username and passward during the first-time login, and the server has a database accommodating all the user's information. During the login process, server will varify whether the user exist and passward valid. If login sucessfully, user will see the image processing interface on which there are two displaying windows showing before and after image, multiple processing buttons doing different processing, a browsing button selecting and importing your images. A user can even click on "camera" button to turn on the camera and take a new picture for processing.
